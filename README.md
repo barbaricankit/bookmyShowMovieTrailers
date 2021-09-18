@@ -11,7 +11,7 @@ Movie List Page
 
 Desktop View
 
-![image](https://user-images.githubusercontent.com/75484187/133906266-790955ca-10d1-4a93-9688-b56153053f0b.png)
+![image](https://user-images.githubusercontent.com/75484187/133906814-c2839552-f633-4256-b509-5d3be6d0810c.png)
 
 Mobile View
 
