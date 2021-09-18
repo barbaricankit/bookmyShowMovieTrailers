@@ -4,6 +4,9 @@
 .rel {
   position: relative;
 }
+.h-18 {
+  height: 18rem;
+}
 .w-100 {
   width: 100%;
 }

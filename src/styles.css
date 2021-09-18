@@ -1,4 +1,4 @@
-@import "./movie.css";
+@import "./features/MovieList/movie.css";
 @import "./features/Header/header.css";
 @import "./features/Trailers/trailer.css";
 @import url("https://fonts.googleapis.com/css2?family=Explora&display=swap");
