@@ -107,13 +107,10 @@ export const movieSlice = createSlice({
     //managing whether to display the language and genre dropdown or not
     showOrHideDisplay: (state, action) => {
       state.languageDisplay =
-        action.payload.display === "language"
-          ? !state.languageDisplay
-          : state.languageDisplay;
+        action.payload.display === "language" ? !state.languageDisplay : false;
+
       state.genreDisplay =
-        action.payload.display === "genre"
-          ? !state.genreDisplay
-          : state.genreDisplay;
+        action.payload.display === "genre" ? !state.genreDisplay : false;
     },
     //hiding the display if clicked outside
     hideDisplay: (state) => {
